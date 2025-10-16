@@ -1,5 +1,5 @@
 # === CONFIGURATION ===
-$exePath = "C:\Program Files\Achievement Watcher\AchievementWatcher.exe"  # change this to your real path
+$exePath = "C:\Program Files\Achievement Watcher\AchievementWatcher.exe"  # Change this to the path you have Achievement Watcher installed if it's not in the default location
 $processName = "AchievementWatcher"
 
 # === START PROCESS IF NOT RUNNING ===
